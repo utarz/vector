@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 //Added another line of comment
-=======
 //This is the main file!
->>>>>>> feddb105be5eba0718f35503f3b45042285618d4
 #include <iostream>
 #include <adder.h>
 #include <IVector.h>
